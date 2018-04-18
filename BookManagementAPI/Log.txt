@@ -1,0 +1,3 @@
+﻿2018-04-13 16:25:36,086 Get                - Data.Entities.IntendForUserException: No publisher ID Found
+   at Service.PublisherServices.GetPublisherById(Int32 PublisherId) in C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\PublisherServices.cs:line 75
+   at BookManagementAPI.Controllers.PublisherController.Get(Int32 id) in C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\BookManagementAPI\Controllers\PublisherController.cs:line 44

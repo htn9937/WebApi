@@ -1,0 +1,5 @@
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Common\bin\Debug\Common.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Common\bin\Debug\Common.pdb
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Common\obj\Debug\Common.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Common\obj\Debug\Common.pdb

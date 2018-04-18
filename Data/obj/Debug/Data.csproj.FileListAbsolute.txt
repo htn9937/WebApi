@@ -1,0 +1,14 @@
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Data\bin\Debug\Data.dll.config
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Data\bin\Debug\Data.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Data\bin\Debug\Data.pdb
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Data\bin\Debug\EntityFramework.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Data\bin\Debug\Model.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Data\bin\Debug\Model.pdb
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Data\bin\Debug\EntityFramework.xml
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Data\obj\Debug\Data.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Data\obj\Debug\Data.pdb

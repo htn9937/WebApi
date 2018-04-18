@@ -1,0 +1,17 @@
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\bin\Debug\Service.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\bin\Debug\Service.pdb
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\bin\Debug\Common.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\bin\Debug\Data.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\bin\Debug\log4net.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\bin\Debug\Model.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\bin\Debug\EntityFramework.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\bin\Debug\Common.pdb
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\bin\Debug\Data.pdb
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\bin\Debug\Model.pdb
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\bin\Debug\log4net.xml
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\bin\Debug\EntityFramework.xml
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\obj\Debug\Service.dll
+C:\Users\hthiennhon\documents\visual studio 2015\Projects\BookManagementAPI\Service\obj\Debug\Service.pdb
